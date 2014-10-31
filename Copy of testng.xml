@@ -1,0 +1,12 @@
+<suite name="Selenium Grid with webdriver" parallel="tests" thread-count ="3">   
+  
+  
+ <test name="Kunal Test Gmail ">
+
+    <classes>
+	  <class name="testSampleFinal"/>
+    </classes >
+ </test>
+ 
+ 
+ </suite>

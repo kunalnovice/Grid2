@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" name="Failed suite [Selenium Grid with webdriver]" parallel="tests">
+  <test name="Kunal Test Gmail (failed)" parallel="tests">
+    <classes>
+      <class name="testSampleFinal">
+        <methods>
+          <include name="testLogin" invocation-numbers="2"/>
+        </methods>
+      </class> <!-- testSampleFinal -->
+    </classes>
+  </test> <!-- Kunal Test Gmail (failed) -->
+</suite> <!-- Failed suite [Selenium Grid with webdriver] -->

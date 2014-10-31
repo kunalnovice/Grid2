@@ -1,0 +1,28 @@
+<suite name="Selenium Grid with webdriver" parallel="tests" thread-count ="3">   
+  
+  
+ <test name="Kunal Test Gmail on firefox">
+    
+    <parameter name="browser" value="firefox"></parameter>
+    <classes>
+	  <class name="testSample2"/>
+    </classes >
+ </test>
+ 
+ <test name="Kunal Test Gmailon chrome">
+    
+    <parameter name="browser" value="chrome"></parameter>
+    <classes>
+	  <class name="testSample2"/>
+    </classes >
+ </test>
+ 
+  <test name="Kunal Test Gmail on IE">
+    
+    <parameter name="browser" value="iexplore"></parameter>
+    <classes>
+	  <class name="testSample2"/>
+    </classes >
+ </test>
+ 
+ </suite>

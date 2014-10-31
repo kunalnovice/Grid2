@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Selenium Grid with webdriver" duration-ms="214372" started-at="2014-10-30T17:25:58Z" finished-at="2014-10-30T17:29:32Z">
+    <groups>
+    </groups>
+    <test name="Kunal Test Gmail " duration-ms="214372" started-at="2014-10-30T17:25:58Z" finished-at="2014-10-30T17:29:32Z">
+      <class name="testSampleFinal">
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testSampleFinal@5a39699c]" name="testLogin" duration-ms="214312" started-at="2014-10-30T17:25:58Z" data-provider="getData" finished-at="2014-10-30T17:29:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[christian.booth@scribestar.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Scr1best@r!]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[iexplore]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testSampleFinal@5a39699c]" name="testLogin" duration-ms="16777" started-at="2014-10-30T17:25:58Z" data-provider="getData" finished-at="2014-10-30T17:26:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kunal.mehta@scribestar.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Scr1best@r!]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testSampleFinal@5a39699c]" name="testLogin" duration-ms="10449" started-at="2014-10-30T17:25:58Z" data-provider="getData" finished-at="2014-10-30T17:26:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nick.meldrum@scribestar.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Scr1best@r!]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- testSampleFinal -->
+    </test> <!-- Kunal Test Gmail  -->
+  </suite> <!-- Selenium Grid with webdriver -->
+</testng-results>

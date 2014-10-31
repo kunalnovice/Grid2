@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="10" verbose="3" name="Failed suite [test Suite]" parallel="tests">
+  <test name="Grid test 2(failed)" parallel="tests">
+    <classes>
+      <class name="testGmail">
+        <methods>
+          <include name="doLogin" invocation-numbers="1"/>
+        </methods>
+      </class> <!-- testGmail -->
+    </classes>
+  </test> <!-- Grid test 2(failed) -->
+  <test name="Grid test 1(failed)" parallel="tests">
+    <classes>
+      <class name="testSearch">
+        <methods>
+          <include name="doSearch" invocation-numbers="1"/>
+        </methods>
+      </class> <!-- testSearch -->
+    </classes>
+  </test> <!-- Grid test 1(failed) -->
+</suite> <!-- Failed suite [test Suite] -->

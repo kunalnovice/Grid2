@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/commons-exec-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/commons-jxpath-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/cssparser-0.9.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/guava-15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/guava-base-r03.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/guava-collections-r03.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/htmlunit-2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/htmlunit-core-js-2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/httpclient-4.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/httpmime-4.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/ini4j-0.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/jetty-websocket-8.1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/jna-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/jna-platform-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/json-20080701.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/jtds-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/junit-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/junit-dep-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/logging-selenium-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/mysql-connector-java-5.0.7-bin(2).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/nekohtml-1.9.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/operadriver-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/phantomjsdriver-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/selenium-java-2.43.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/selenium-java-2.43.0-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/testng.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/testng-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/testng-xslt-maven-plugin-test-0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/xmlbeans-xpath-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/All Jars/xstream-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kunal.Mehta/Desktop/dOWNLOADS/Cucumber java Jars/selenium-server-standalone-2.43.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
