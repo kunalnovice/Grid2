@@ -36,8 +36,7 @@ public class Google_Search {
 		// _important
 		cap.setCapability("_important", "2");
 		
-		
-		// give URL of Hub
+			// give URL of Hub
 		
 		//new DefaultCapabilityMatcher().
 		
